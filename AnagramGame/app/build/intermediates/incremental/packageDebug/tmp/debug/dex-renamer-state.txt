@@ -1,0 +1,7 @@
+#Sat Nov 02 15:07:29 MST 2019
+base.0=Y\:\\Android Applications\\AnagramGame\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=Y\:\\Android Applications\\AnagramGame\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
